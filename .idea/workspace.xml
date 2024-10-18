@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ordtool:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="63e8119b-b667-4615-9512-8c4dfcef07d2" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/ordtool_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jeong/ordtool/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jeong/ordtool/Controller/BanPickController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jeong/ordtool/Controller/CharacterPickController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jeong/ordtool/Controller/GambleCountController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jeong/ordtool/Controller/MainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jeong/ordtool/Controller/RolePickController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jeong/ordtool/Controller/TeamPickController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jeong/ordtool/Entity/UnitEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jeong/ordtool/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/jeong/ordtool/fxml/banPick.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/jeong/ordtool/fxml/characterPick.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/jeong/ordtool/fxml/gamebleCount.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/jeong/ordtool/fxml/main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/jeong/ordtool/fxml/rolePick.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/jeong/ordtool/fxml/teamPick.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/jeong/ordtool/json/et.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/jeong/ordtool/json/hidden.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/jeong/ordtool/json/im.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/jeong/ordtool/json/legend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/jeong/ordtool/json/tr.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2napy8ag5PmPyZtzxdqMvwkL08q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "azul-17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/study/ordtool",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "아티팩트",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.3745583",
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.App.executor": "Run",
+    "애플리케이션.HelloApplication.executor": "Run",
+    "애플리케이션.ordTool.executor": "Run"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\study\ordtool\src\main\java\com\jeong\ordtool" />
+      <recent name="D:\study\ordtool\src\main\resources\com\jeong\ordtool" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="63e8119b-b667-4615-9512-8c4dfcef07d2" name="변경" comment="" />
+      <created>1729221298942</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729221298942</updated>
+      <workItem from="1729221300004" duration="1686000" />
+      <workItem from="1729222991748" duration="1459000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ordtool$ordTool.ic" NAME="ordTool 커버리지 결과" MODIFIED="1729222741483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+  </component>
+</project>
